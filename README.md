@@ -92,8 +92,8 @@ SUM(VIEWS) AS TOTAL_VEIWS
 FROM SPOTIFY
 GROUP BY 1,2
 ORDER BY 3 DESC;
-```sql
-6. Retrieve the track names that have been streamed on Spotify more than YouTube.
+```
+5. Retrieve the track names that have been streamed on Spotify more than YouTube.
 
 ### Advanced Level
 1. Find the top 3 most-viewed tracks for each artist using window functions usning ranking methods
