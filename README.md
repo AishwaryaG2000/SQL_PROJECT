@@ -139,7 +139,7 @@ To improve query performance, we carried out the following optimization process:
     - After creating the index, we ran the same query again and observed significant improvements in performance:
         - Execution time (E.T.): **1.495 ms**
 
-This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
+    **This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.**
 ---
 ## Technology Stack
 - **Database**: PostgreSQL
